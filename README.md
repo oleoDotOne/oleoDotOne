@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋🏽, I'm Leo Ọládimú</h1>
 
-- 📫 Reach me at **leo@oleo.dev**
+- 📫 Reach me at **oleo.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
